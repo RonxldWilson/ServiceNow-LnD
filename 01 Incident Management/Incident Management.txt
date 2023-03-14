@@ -1,0 +1,47 @@
+What is an incident?
+    An incident is defined as one of the following:
+    Unplanned interruption to an IT service 
+    Reduction in the quality of an IT service
+    Failure of a configuration item (CI) that has not yet affected service
+    An event that has not yet impacted the service to the Customer
+
+What is the goal of incident management?
+    Restore a normal service operation as quickly as possible and within an 
+        agreed service level agreement (SLA)
+    Minimize impact on business operation
+    Ensure that the best possible levels of service quality and availability are maintained
+
+Personas in Incident management
+    Business User: Aka End User
+    Service Desk Agent: ITIL user, SPOC for the Business User
+    Support Team Agent: Solves the incident tasks
+    Incident Manager:Coordinates the Incident management process
+
+Terminologies
+    Incident: An Unplanned interruption to or quality Reduction of an IT service
+    Problem: The underlying cause of one or more incidents
+    Configuration Item: It maybe one of the following A physical entity, such as a
+        Computer or router A logical entity, such as an instance of a database Conceptual, 
+        such as a requisitions service
+    Knowledge Articles: Used to share information between users of a Knowledge base
+
+    Acronymns: ITIL, CI, CMDB, SLA
+
+Three Stages of an Incident Lifecycle:
+    1. Creation and Classification
+    2. Investigation and Diagnosis
+    3. Resolution and Closure
+
+# Impact || Urgency || Privacy
+
+Impact Definitions:
+    How many users are affected?
+    How many services are affected?
+    Extent to which expected levels of service are affected.
+Urgency Definitions:
+    Extent to which the resolution can be delayed.
+    Time available for repair or avoidance before impact is felt.
+Priority Definitions:
+    How quickly the service desk must address the issue.
+    Sequence in which the incident requirees resolution.
+    Time available within the SLA for incident response and resolution.
